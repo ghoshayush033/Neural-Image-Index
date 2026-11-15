@@ -1,4 +1,4 @@
-# Text-to-Image Retrieval System
+# Neural Image Index
 
 A semantic image search engine powered by OpenAI's CLIP (Contrastive Language-Image Pre-training) model and ChromaDB vector database. Search through your image collection using natural language queries.
 
